@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 
 author: Maurice Dévigne
 date: 1898-05-01

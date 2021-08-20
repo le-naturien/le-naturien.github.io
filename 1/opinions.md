@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 
 author: J. Moris
 date: 1898-03-01

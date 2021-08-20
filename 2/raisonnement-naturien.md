@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 
 author: Tchandala
 date: 1898-04-01

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 
 author: E.J. Villemejane
 date: 1898-05-01

@@ -4,7 +4,15 @@
   {%- include head.html -%}
 
   <body>
+    <header class="site-header" role="banner">
 
+      <div class="wrapper">
+        
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    
+      </div>
+    </header>
+    
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
@@ -13,7 +21,6 @@
     </main>
 
     {%- include footer.html -%}
-    <script src="{{ "/assets/lazysizes.min.js" | relative_url }}" async></script>
   </body>
 
 </html>

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 
 author: E. Gravelle
 date: 1898-03-01
