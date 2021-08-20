@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 
 author: Enry Zisly
 date: 1898-03-01

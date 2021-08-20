@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 
 author: François de Nion
 date: 1897-12-14

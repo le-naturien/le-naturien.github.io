@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 
 author: Henri Beaulieu
 date: 1898-03-01
