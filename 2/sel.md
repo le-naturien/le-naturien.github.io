@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 
 author: Alfred Marné
 date: 1898-04-01

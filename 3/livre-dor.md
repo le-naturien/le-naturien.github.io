@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 
 author: Honoré Bigot
 date: 1898-05-01

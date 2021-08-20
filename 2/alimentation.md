@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 
 author: Fouques
 date: 1898-04-01

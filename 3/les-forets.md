@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 
 author: Lesbazeilles
 date: 1898-05-01
