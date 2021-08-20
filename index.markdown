@@ -56,10 +56,11 @@ layout: default
   - [Le livre d'or de la civilisation (Honoré Bigot)](/3/livre-dor.html)
   - [Vivons Naturellement (Léon Saunier)](/3/vivons-naturellement.html)
   - [Aveux scientifiques (Honoré Bigot)](/3/aveux-scientifiques.html)
-  - [Extrait de &laquo; Les Forêts &raquo; (Lesbazeilles)](/3/les-forets.html)
-  - [Effets épouventables du travail forcé (suite) (Honoré Bigot)](/3/travail-force-suite.html)
+  - [Extrait de &laquo; Les Forêts &raquo; (Lesbazeilles)](/3/les-forets.html) (en cours)
+  - [Effets épouventables du travail forcé (suite) (Honoré Bigot)](/3/travail-force-suite.html) (en cours)
 
 <div style="text-align:center">••••••••••</div>
 - Numéro 4
+  - (en cours)
 
 <div style="text-align:center">••••••••••</div>
