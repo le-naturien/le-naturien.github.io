@@ -26,3 +26,15 @@ solitudes; pas un seul battement de mon cœur ne sera comprimé, pas une seule d
 &raquo; Et pour se prouver qu'il était rétabli dans ses droits originels, il se livrait à mille actes d'indépendance; 
 sa joie allait jusqu'au délire; son guide (un civilisé) le croyait fou.
 
+Alexis de Tocqueville, voyageant avec un ami, M.G. de Beaumont, dans le Michigan, et remontant en canot un bras de la
+Saginaw à travers une immense forêt, ressentit le même enchantement. &laquo; Le désert etait là, dit-il, tel qu'il 
+s'offrit aux regards de nos premiers pères: une solitude fleurie, délicieuse, embaumée, *magnifique demeure*, *palais 
+vivant* bâti pour l'homme, mais où le maître n'avait pas encore pénétré. Le canot glissait sans effort et sans bruit. 
+Il régnait autour de nous une sérénité, une quiétude universelle. Nous-mêmes nous ne tardons pas à nous sentir comme 
+amollis à la vue d'un pareil spectacle.
+
+Aucun voyageur n'échappe à la séduction de la forêt vierge; impétueusement l'homme civilisé y *sent se réveiller en lui des instincts primitifs* qui n'étaient qu'assoupis; ; il croit ressaisir le bonheur.
+
+Lesbazeilles.
+
+(*Les forêts*, pages 182, 183 et 184.)
