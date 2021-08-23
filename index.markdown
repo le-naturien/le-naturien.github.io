@@ -61,9 +61,9 @@ layout: default
 
 <div style="text-align:center">••••••••••</div>
 - Numéro 4 - 1er juin 1898 ([source](/4/Le_Naturien_4.pdf))
-  - [Horreurs de la Science du Progès et de l'Industrie](/4/horreurs.html) (en cours)
-  - [L'enfant de la nature à la science amie de l'artifice](/4/enfant.html) (en cours)
-  - [Révolution](/4/revolution.html) (en cours)
+  - [Horreurs de la Science du Progès et de l'Industrie](/4/horreurs.html) 
+  - [L'enfant de la nature à la science amie de l'artifice](/4/enfant.html) 
+  - [Révolution](/4/revolution.html) 
   - [Dominations arbitraires](/4/dominations-arbitraires.html) (en cours)
   - [Observations](/4/observations.html) (en cours)
   - [L'Hostilité Fictive et la Bienfaisance Virtuelle de la Terre](/4/hostilite-fictive-bienfaisance-virtuelle.html) (en cours)
