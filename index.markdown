@@ -61,20 +61,20 @@ layout: default
 
 <div style="text-align:center">••••••••••</div>
 - Numéro 4 - 1er juin 1898 ([source](/4/Le_Naturien_4.pdf))
-  - [Horreurs de la Science du Progès et de l'Industrie](/4/horreurs.html)
-  - [L'enfant de la nature à la science amie de l'artifice](/4/enfant.html)
-  - [Révolution](/4/revolution.html)
-  - [Dominations arbitraires](/4/dominations-arbitraires.html)
-  - [Observations](/4/observations.html)
-  - [L'Hostilité Fictive et la Bienfaisance Virtuelle de la Terre](/4/hostilite-fictive-bienfaisance-virtuelle.html)
-  - [Pression autoritaire](/4/pression-autoritaire.html)
-  - [Le livre d'or de la civilisation (suite) (Honoré Bigot)](/4/livre-dor-suite.html)
-  - [La récolte du miel en la montagne](/4/recolte-miel.html)
-  - [Dégenérescence](/4/degenerescence.html)
-  - [Lettre d'un cultivateur](/4/lettre-cultivateur.html)
-  - [Ce que révèle un naturien aux hommes civilisés?](/4/ce-que-revele-un-naturien.html)
-  - [Aveux scientifiques (Honoré Bigot)](/4/aveux-scientifiques.html)
-  - [Effets épouventables du travail forcé (suite) (Honoré Bigot)](/4/travail-force-suite.html)
-  
+  - [Horreurs de la Science du Progès et de l'Industrie](/4/horreurs.html) (en cours)
+  - [L'enfant de la nature à la science amie de l'artifice](/4/enfant.html) (en cours)
+  - [Révolution](/4/revolution.html) (en cours)
+  - [Dominations arbitraires](/4/dominations-arbitraires.html) (en cours)
+  - [Observations](/4/observations.html) (en cours)
+  - [L'Hostilité Fictive et la Bienfaisance Virtuelle de la Terre](/4/hostilite-fictive-bienfaisance-virtuelle.html) (en cours)
+  - [Pression autoritaire](/4/pression-autoritaire.html) (en cours)
+  - [Le livre d'or de la civilisation (suite) (Honoré Bigot)](/4/livre-dor-suite.html) (en cours)
+  - [La récolte du miel en la montagne](/4/recolte-miel.html) (en cours)
+  - [Dégenérescence](/4/degenerescence.html) (en cours)
+  - [Lettre d'un cultivateur](/4/lettre-cultivateur.html) (en cours)
+  - [Ce que révèle un naturien aux hommes civilisés?](/4/ce-que-revele-un-naturien.html) (en cours)
+  - [Aveux scientifiques (Honoré Bigot)](/4/aveux-scientifiques.html) (en cours)
+  - [Effets épouventables du travail forcé (suite) (Honoré Bigot)](/4/travail-force-suite.html) (en cours)
+
 
 <div style="text-align:center">••••••••••</div>
