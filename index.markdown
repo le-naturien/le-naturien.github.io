@@ -26,7 +26,7 @@ layout: default
 </p>   
 <div style="text-align:center">••••••••••</div>
 
-- Numéro 1 - 1er mars 1898
+- Numéro 1 - 1er mars 1898 ([source](/1/Le_Naturien_1.pdf))
   - [La France à l'état naturel (E. Gravelle)](/1/la-france-a-letat-naturel.html)
   - [L'homme (Honoré Bigot)](/1/homme.html)
   - [Sauvagisme (Alfred Marné)](/1/sauvagisme.html)
@@ -38,7 +38,7 @@ layout: default
   - [Et les paresseux, qu'en faites-vous ? (J. Barian)](/1/paresseux.html)
 
 <div style="text-align:center">••••••••••</div>
-- Numéro 2 - 1er avril 1898
+- Numéro 2 - 1er avril 1898 ([source](/2/Le_Naturien_2.pdf))
   - [Corruption, décomposition (Honoré Bigot)](/2/corruption-decomposition.html)
   - [État naturel et anarchie (J. Barian)](/2/etat-naturel-anarchie.html)
   - [Le sel (Alfred Marné)](/2/sel.html)
@@ -49,18 +49,32 @@ layout: default
   - [Effets épouventables du travail forcé (Honoré Bigot)](/2/travail-force.html)
 
 <div style="text-align:center">••••••••••</div>
-- Numéro 3 - 1er mai 1898
+- Numéro 3 - 1er mai 1898 ([source](/3/Le_Naturien_3.pdf))
   - [Aux civilisés libertaire ou autoritaires (E. Gravelle)](/3/aux-civilises.html)
   - [Malsaine civilisation et bienfaisante nature (E.J. Villemejane)](/3/malsaine-civilisation.html)
   - [Civilisation (Maurice Dévigne)](/3/civilisation.html)
   - [Le livre d'or de la civilisation (Honoré Bigot)](/3/livre-dor.html)
   - [Vivons Naturellement (Léon Saunier)](/3/vivons-naturellement.html)
   - [Aveux scientifiques (Honoré Bigot)](/3/aveux-scientifiques.html)
-  - [Extrait de &laquo; Les Forêts &raquo; (Lesbazeilles)](/3/les-forets.html) (en cours)
-  - [Effets épouventables du travail forcé (suite) (Honoré Bigot)](/3/travail-force-suite.html) (en cours)
+  - [Extrait de &laquo; Les Forêts &raquo; (Lesbazeilles)](/3/les-forets.html)
+  - [Effets épouventables du travail forcé (suite) (Honoré Bigot)](/3/travail-force-suite.html)
 
 <div style="text-align:center">••••••••••</div>
-- Numéro 4
-  - (en cours)
+- Numéro 4 - 1er juin 1898 ([source](/4/Le_Naturien_4.pdf))
+  - [Horreurs de la Science du Progès et de l'Industrie](/4/horreurs.html)
+  - [L'enfant de la nature à la science amie de l'artifice](/4/enfant.html)
+  - [Révolution](/4/revolution.html)
+  - [Dominations arbitraires](/4/dominations-arbitraires.html)
+  - [Observations](/4/observations.html)
+  - [L'Hostilité Fictive et la Bienfaisance Virtuelle de la Terre](/4/hostilite-fictive-bienfaisance-virtuelle.html)
+  - [Pression autoritaire](/4/pression-autoritaire.html)
+  - [Le livre d'or de la civilisation (suite) (Honoré Bigot)](/4/livre-dor-suite.html)
+  - [La récolte du miel en la montagne](/4/recolte-miel.html)
+  - [Dégenérescence](/4/degenerescence.html)
+  - [Lettre d'un cultivateur](/4/lettre-cultivateur.html)
+  - [Ce que révèle un naturien aux hommes civilisés?](/4/ce-que-revele-un-naturien.html)
+  - [Aveux scientifiques (Honoré Bigot)](/4/aveux-scientifiques.html)
+  - [Effets épouventables du travail forcé (suite) (Honoré Bigot)](/4/travail-force-suite.html)
+  
 
 <div style="text-align:center">••••••••••</div>
