@@ -68,7 +68,7 @@ layout: default
   - [Observations](/4/observations.html)
   - [L'Hostilité Fictive et la Bienfaisance Virtuelle de la Terre](/4/hostilite-fictive-bienfaisance-virtuelle.html) 
   - [Le livre d'or de la civilisation (suite) (Honoré Bigot)](/4/livre-dor-suite.html) 
-  - [La récolte du miel en la montagne](/4/recolte-miel.html) (en cours)
+  - [La récolte du miel en la montagne](/4/recolte-miel.html)
   - [Dégenérescence](/4/degenerescence.html) (en cours)
   - [Lettre d'un cultivateur](/4/lettre-cultivateur.html) (en cours)
   - [Ce que révèle un naturien aux hommes civilisés?](/4/ce-que-revele-un-naturien.html) (en cours)
