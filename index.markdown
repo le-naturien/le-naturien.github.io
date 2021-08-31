@@ -6,6 +6,10 @@ layout: default
 ---
 
 
+{%- if jekyll.environment == 'production'  -%}
+    <img src="https://dol.roflcopter.fr/h/103RL8nRsoaTU" alt="" />
+{%- endif -%}
+
 <p style="text-align:center;">
     <h2 style="text-align:center;font-family:cursive;">LE NATURIEN</h2>
 </p>
@@ -77,3 +81,12 @@ layout: default
 
 
 <div style="text-align:center">••••••••••</div>
+
+
+D'autres textes de ces mêmes auteurs peuvent être consultés sur [Archives Autonomies](http://archivesautonomies.org/spip.php?rubrique419).
+Récemment, François Jarrige à publié, chez le passager clandestin, un petit livre: [&laquo; Gravelle, Zisly &raquo; et les anarchistes naturiens contre la civilisation industrielle](https://www.lepassagerclandestin.fr/catalogue/precurseur-ses-decroissance/gravelle-zisly-et-les-anarchistes-naturiens-contre-la-civilisation-industrielle/).
+
+A conseiller également, les blogs suivants qui parlent parfois des naturiens:
+- [Blog Floraison](https://floraisons.blog/)
+- [Blog Le Partage](https://www.partage-le.com/)
+- [Revue Terrestres](https://www.terrestres.org/)
