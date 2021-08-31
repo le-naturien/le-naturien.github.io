@@ -74,7 +74,6 @@ layout: default
   - [Dégenérescence (Léon Saunier)](/4/degenerescence.html) 
   - [Lettre d'un cultivateur](/4/lettre-cultivateur.html) 
   - [Ce que révèle un naturien aux hommes civilisés? (Tchandala)](/4/ce-que-revele-un-naturien.html) 
-  - [Aveux scientifiques (Honoré Bigot)](/4/aveux-scientifiques.html) (en cours)
   - [Effets épouventables du travail forcé (suite) (Honoré Bigot)](/4/travail-force-suite.html) 
 
 
