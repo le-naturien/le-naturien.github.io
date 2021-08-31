@@ -6,11 +6,7 @@ layout: default
 ---
 
 
-{%- if jekyll.environment == 'production'  -%}
-    <img src="https://dol.roflcopter.fr/h/103RL8nRsoaTU" alt="" />
-{%- endif -%}
 
-&nbsp;
 
 <p style="text-align:center;">
     <h2 style="text-align:center;font-family:cursive;">LE NATURIEN</h2>
@@ -92,3 +88,8 @@ A conseiller également, les blogs suivants qui parlent parfois des naturiens:
 - [Blog Floraison](https://floraisons.blog/)
 - [Blog Le Partage](https://www.partage-le.com/)
 - [Revue Terrestres](https://www.terrestres.org/)
+
+
+{%- if jekyll.environment == 'production'  -%}
+    <img src="https://dol.roflcopter.fr/h/103RL8nRsoaTU" alt="" />
+{%- endif -%}
