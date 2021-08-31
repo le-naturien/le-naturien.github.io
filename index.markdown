@@ -10,6 +10,8 @@ layout: default
     <img src="https://dol.roflcopter.fr/h/103RL8nRsoaTU" alt="" />
 {%- endif -%}
 
+&nbsp;
+
 <p style="text-align:center;">
     <h2 style="text-align:center;font-family:cursive;">LE NATURIEN</h2>
 </p>
