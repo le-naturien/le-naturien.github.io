@@ -70,10 +70,10 @@ layout: default
   - [Le livre d'or de la civilisation (suite) (Honoré Bigot)](/4/livre-dor-suite.html) 
   - [La récolte du miel en la montagne](/4/recolte-miel.html)
   - [Dégenérescence](/4/degenerescence.html) 
-  - [Lettre d'un cultivateur](/4/lettre-cultivateur.html) (en cours)
-  - [Ce que révèle un naturien aux hommes civilisés?](/4/ce-que-revele-un-naturien.html) (en cours)
+  - [Lettre d'un cultivateur](/4/lettre-cultivateur.html) 
+  - [Ce que révèle un naturien aux hommes civilisés?](/4/ce-que-revele-un-naturien.html) 
   - [Aveux scientifiques (Honoré Bigot)](/4/aveux-scientifiques.html) (en cours)
-  - [Effets épouventables du travail forcé (suite) (Honoré Bigot)](/4/travail-force-suite.html) (en cours)
+  - [Effets épouventables du travail forcé (suite) (Honoré Bigot)](/4/travail-force-suite.html) 
 
 
 <div style="text-align:center">••••••••••</div>
