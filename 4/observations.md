@@ -1,7 +1,7 @@
 ---
 layout: post
 
-author: J. Moris.
+author: J. Moris
 date: 1898-06-01
 ---
 

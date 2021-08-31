@@ -1,7 +1,7 @@
 ---
 layout: post
 
-author: E. J. Villeméjane.
+author: E. J. Villeméjane
 date: 1898-06-01
 ---
 
